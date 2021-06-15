@@ -2,6 +2,4 @@
 <h2> Czesc tu DASZKA </h2>
 <h3> No ELKO </h3>
 <h4> nie mam internetu </h4>
-<h4> nie mam internDDDetu </h4>
-<h4> Ansible!!!!!!!!!1!! </h4>
 
